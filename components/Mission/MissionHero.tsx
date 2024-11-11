@@ -19,10 +19,7 @@ const MissionHero = () => {
         </span>
 
         <p className="text-[#474747] text-[15px] font-normal text-center">
-          Although 78% of Rwanda&apos;s workforce is in agriculture, reliance on
-          traditional methods limits innovation, job diversity, and economic
-          impact. Modernizing the sector could create 200,000 jobs and promote
-          local food consumption by 2035.
+        Could establishing local compost production units promote sustainable farming and create 1,000 new jobs by 2030 while strengthening Rwanda&apos;s food security and economy?
         </p>
 
         <Image
@@ -40,7 +37,7 @@ const MissionHero = () => {
           <h2 className="text-[#0b2e14] text-[22px] font-bold"> Mission</h2>
         </span>
         <p className="text-[#474747] text-[15px] font-normal text-center">
-        To transform Rwanda&apos;s agricultural sector by implementing sustainable composting initiatives that improve soil health, boost crop yields, and create 20,000 local jobs.
+        Idea Nexus&apos;s mission is to create diverse job opportunities within the agricultural sector for our generation in their respective areas of expertise to ensure an  innovative, adaptable and impactful  system of agriculture in the community
         </p>
 
         <Image
@@ -61,7 +58,7 @@ const MissionHero = () => {
           Our business aims to modernize Rwanda&apos;s agriculture by establishing
           local compost production units that provide sustainable, organic
           fertilizers to improve soil health and crop yields. This will create
-          up to 20,000 new jobs in composting, packaging, and distribution, with
+          up to 1000 new jobs in composting, packaging, and distribution, with
           a focus on training youth and farmers.
         </p>
 

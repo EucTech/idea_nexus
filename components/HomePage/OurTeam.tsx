@@ -3,7 +3,7 @@ import TeamItems from "./TeamItems";
 
 const TEAMMEMBERS = [
     {
-        name: "Gaga John paul",
+        name: "Gaga Jean Paul",
         role: "Team Lead",
         image: "/gaga.jpg",
         country: "Rwanda",
@@ -24,11 +24,11 @@ const TEAMMEMBERS = [
         image: "/uche.jpg",
         country: "Nigeria",
         link1: "https://www.linkedin.com/in/uchechukwu-ezeibe-76397522b/",
-        link2: "https://instagram.com/",
+        link2: "https://www.instagram.com/uchechukwuezeibe/profilecard/?igsh=MTZxZjc4b2U5M2xlZg==",
     },
     {
-        name: "Queen Joelle",
-        role: "Communication",
+        name: "Queen Joelle K.H",
+        role: "Communication Lead",
         image: "/queen.jpg",
         country: "Rwanda",
         link1: "https://www.linkedin.com/in/queen-joelle",
@@ -38,12 +38,13 @@ const TEAMMEMBERS = [
         name: "Bridget Karungi",
         role: "Social Media Manager",
         image: "/bridget.jpg",
+        country: "Rwanda",
         link1: "https://www.linkedin.com/in/",
         link2: "https://www.instagram.com/bridget_ntsinga/profilecard/?igsh=aTN3OXIzZGM0bHYz",
     },
     {
         name: "David Shumbusho",
-        role: "Researcher",
+        role: "Research Lead",
         image: "/david.jpg",
         country: "Rwanda",
         link1: "https://rw.linkedin.com/in/shumbusho-david-71a244206",

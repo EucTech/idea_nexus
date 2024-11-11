@@ -33,8 +33,8 @@ const TeamItems: React.FC<TeamItemsProps> = ({props} ) => {
       </div>
 
       <div className="absolute  bottom-[-3.5rem] h-14 w-full flex gap-4 items-center justify-center bg-[#2c2b2be5] text-[#fff] text-[24px] transform transition-transform duration-300 ease-in-out group-hover:translate-y-[-3.5rem]">
-        <Link href={props.link1} className=" hover:text-[#29a047] text-[24px]"><FaInstagram/></Link>
-        <Link href={props.link2} className=" hover:text-[#29a047] text-[24px]"><FaLinkedin/></Link>
+        <Link href={props.link2} className=" hover:text-[#29a047] text-[24px]"><FaInstagram/></Link>
+        <Link href={props.link1} className=" hover:text-[#29a047] text-[24px]"><FaLinkedin/></Link>
       </div>
     </div>
   );
